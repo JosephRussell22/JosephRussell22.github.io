@@ -31,7 +31,7 @@ header h2{
 header img {
     margin-left: 2em;
     float: left;
-    border-bottom: 2px solid maroon;
+    
 }
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
@@ -44,7 +44,7 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-
+    border-top: 2px solid maroon;
 }
 article h3 {
     column-span: all;
