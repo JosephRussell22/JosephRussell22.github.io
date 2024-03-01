@@ -27,6 +27,7 @@ header h2{
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
+    border-bottom: 2px solid maroon;
 }
 header img {
     margin-left: 2em;
@@ -44,7 +45,6 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    border-top: 2px solid maroon;
 }
 article h3 {
     column-span: all;
