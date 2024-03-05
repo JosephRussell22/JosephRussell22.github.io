@@ -74,7 +74,6 @@ footer {
     clear: both;
     border-top: 2px solid maroon;
     text-align: center;
-    padding: 20px 20px 20px 20px;
 }
 footer p.copyrigth {
     text-align: center;
@@ -87,5 +86,5 @@ p.fixed {
     right: 0;
     border: 3px solid darkgreen;
     background-color: lightgreen;
-    padding-bottom: 20px;
+    padding: 20px 20px 20px 20px;
 }
