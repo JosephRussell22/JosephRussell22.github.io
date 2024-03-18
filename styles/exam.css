@@ -36,6 +36,7 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     padding-top: 70px;
+    border-top: 2px solid blue;
 }
 article h1 {
     color: blue;
