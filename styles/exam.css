@@ -15,6 +15,12 @@
 #nav_exam ul li a.current { color: yellow; }
 article {
     clear: left;
+    width: 70%;
+    float: left;
+    column-count: 3;
+    column-rule: 2px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
 }
 aside ol {
     list-style-type: upper-roman;
