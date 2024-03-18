@@ -42,6 +42,7 @@ article h1 {
 }
 article h2 {
     color: blue;
+    border-top: 2px solid blue;
 }
 article img {
     float: left;
