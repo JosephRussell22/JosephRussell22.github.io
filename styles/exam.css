@@ -37,10 +37,10 @@ article {
     margin-left: 2em;
     padding-top: 70px;
 }
-article h2 {
+article h1 {
     color: blue;
 }
-head title {
+article h2 {
     color: blue;
 }
 article p::first-letter {
