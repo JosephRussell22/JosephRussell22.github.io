@@ -39,8 +39,6 @@ article {
 }
 article h1 {
     color: blue;
-    border-top: 2px solid blue;
-    padding-top: 50px;
 }
 article h2 {
     color: blue;
