@@ -14,7 +14,7 @@
 #nav_exam ul li a.lastitem { border-right: none; }	
 #nav_exam ul li a.current { color: yellow; }
 html {
-    background-image: linear-gradient(to left, white 0%, #facd8a 100%)
+    background-image: linear-gradient(to left, white 0%, turquoise 100%)
 }
 body {
     font-family:Arial, Helvetica, sans-serif;
