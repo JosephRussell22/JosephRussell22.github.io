@@ -44,8 +44,9 @@ article h2 {
     color: blue;
 }
 article img {
-    margin-left: 1em;
     float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }
 article p::first-letter {
     font-size: 2em;
