@@ -37,10 +37,6 @@ article {
     margin-left: 2em;
     padding-top: 70px;
 }
-article h3 {
-    column-span: all;
-    padding-top: 20px;
-}
 article h2 {
     color: blue;
 }
