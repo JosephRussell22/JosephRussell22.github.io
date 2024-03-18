@@ -42,6 +42,9 @@ article h3 {
     padding-top: 20px;
     border-top: 2px solid blue;
 }
+article h2 {
+    color: blue;
+}
 article p::first-letter {
     font-size: 2em;
     font-weight: bold;
