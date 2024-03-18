@@ -43,6 +43,10 @@ article h1 {
 article h2 {
     color: blue;
 }
+header img {
+    margin-left: 2em;
+    float: left;
+}
 article p::first-letter {
     font-size: 2em;
     font-weight: bold;
