@@ -26,6 +26,7 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
+    border-top: 2px solid blue;
 }
 article {
     clear: left;
@@ -36,7 +37,6 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     padding-top: 70px;
-    border-top: 2px solid blue;
 }
 article h3 {
     column-span: all;
