@@ -44,6 +44,12 @@ article h3 {
     column-span: all;
     padding-top: 20px;
 }
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
 aside {
     width: 20%;
     float: right;
