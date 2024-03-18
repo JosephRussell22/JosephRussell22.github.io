@@ -40,7 +40,6 @@ article {
 article h3 {
     column-span: all;
     padding-top: 20px;
-    border-top: 2px solid blue;
 }
 article h2 {
     color: blue;
