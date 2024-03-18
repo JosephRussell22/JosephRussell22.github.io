@@ -54,7 +54,7 @@ article p::first-letter {
     color: black;
 }
 aside {
-    float: right;
+    float: middle;
     width: 20%;
     background-color: turquoise;
     padding-top: 30px;
