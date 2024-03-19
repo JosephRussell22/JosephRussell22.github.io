@@ -62,6 +62,7 @@ aside {
     padding-right: 5px;
     position: fixed;
     border: solid black;
+    float: right;
 }
 aside ol {
     list-style-type: upper-roman;
