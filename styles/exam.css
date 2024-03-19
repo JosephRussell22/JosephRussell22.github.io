@@ -36,6 +36,7 @@ article {
     margin-left: 2em;
     padding-top: 70px;
     border-top: 2px solid blue;
+    float: left;
 }
 article nav {
     border-bottom: 2px solid blue;
