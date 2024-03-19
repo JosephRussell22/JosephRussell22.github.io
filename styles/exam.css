@@ -27,9 +27,6 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
-#nav_exam {
-    border-bottom: 2px solid blue;
-}
 article {
     clear: left;
     width: 75%;
