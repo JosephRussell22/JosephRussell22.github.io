@@ -38,7 +38,6 @@ article {
     column-rule: 4px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
-    padding-top: 1px;
     float: left;
 }
 article h1 {
