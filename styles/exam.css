@@ -10,7 +10,8 @@
     background-color: blue;
     color: white;
     font-weight: bold;
-    border-right: 2px solid white; }
+    border-right: 2px solid white;
+    border-bottom: 2px solid blue; }
 #nav_exam ul li a.lastitem { border-right: none; }	
 #nav_exam ul li a.current { color: yellow; }
 html {
