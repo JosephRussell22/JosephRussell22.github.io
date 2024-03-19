@@ -41,6 +41,7 @@ article h1 {
     color: blue;
     padding-top: 20px;
     column-span: all;
+    border-top: 2px solid blue;
 }
 article h2 {
     color: blue;
