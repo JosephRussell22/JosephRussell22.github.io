@@ -29,6 +29,7 @@ body {
 }
 nav {
     border-bottom: 2px solid blue;
+    padding-bottom: 20px;
 }
 article {
     clear: left;
