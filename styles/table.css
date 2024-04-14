@@ -34,3 +34,6 @@ table.third th {
 table.third tr:first-child {
     border-top: 2px solid orangered;
 }
+table.third tr:last-child {
+    border-bottom: 2px solid orangered;
+}
