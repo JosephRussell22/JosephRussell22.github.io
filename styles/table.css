@@ -37,3 +37,6 @@ table.third tr:first-child {
 table.third tr:last-child {
     border-bottom: 2px solid orangered;
 }
+table.third th, table.third td {
+    padding: .7em;
+}
