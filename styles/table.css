@@ -30,6 +30,7 @@ table.third {
 table.third th {
     vertical-align: top;
     background-color: lawngreen;
+    border-top: 2px solid orangered;
 }
 table.third tr:first-child {
     border-top: 2px solid orangered;
